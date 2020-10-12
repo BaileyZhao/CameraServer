@@ -1,0 +1,17 @@
+2020-06-29 13:01:49.764 [main] DEBUG com.junction.CameraServerApplication - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-06-29 13:02:00.081 [pool-1-thread-1] DEBUG com.junction.util.CameraPush - ******   TCPCheck    BEGIN   ******
+2020-06-29 13:02:04.254 [pool-1-thread-1] DEBUG com.junction.util.CameraPush - ******   TCPCheck    BEGIN   ******
+2020-06-29 13:02:45.587 [pool-1-thread-1] DEBUG com.junction.util.CameraPush - ******   TCPCheck    BEGIN   ******
+2020-06-29 13:02:52.069 [pool-1-thread-1] DEBUG com.junction.util.CameraPush - ******   TCPCheck    BEGIN   ******
+2020-06-29 13:04:35.014 [main] DEBUG com.junction.CameraServerApplication - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-06-29 13:04:42.628 [pool-1-thread-1] DEBUG com.junction.util.CameraPush - ******   TCPCheck    BEGIN   ******
+2020-06-29 13:04:54.211 [pool-1-thread-1] DEBUG com.junction.util.CameraPush - ******   TCPCheck    BEGIN   ******
+2020-06-29 13:04:54.226 [pool-1-thread-1] DEBUG com.junction.util.CameraPush - ******   TCPCheck    END     ******
+2020-06-29 13:04:54.226 [pool-1-thread-1] DEBUG com.junction.util.CameraPush - ******   grabber.start()    BEGIN   ******
+2020-06-29 13:04:55.137 [pool-1-thread-1] DEBUG com.junction.util.CameraPush - ******   grabber.start()    END     ******
+2020-06-29 13:05:03.422 [pool-1-thread-2] DEBUG com.junction.util.CameraPush - ******   TCPCheck    BEGIN   ******
+2020-06-29 13:06:24.266 [pool-1-thread-3] DEBUG com.junction.util.CameraPush - ******   TCPCheck    BEGIN   ******
+2020-06-29 14:10:51.428 [main] DEBUG com.junction.CameraServerApplication - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-06-29 14:11:54.219 [main] DEBUG com.junction.CameraServerApplication - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-06-29 14:14:23.872 [main] DEBUG com.junction.CameraServerApplication - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-06-29 14:14:51.656 [pool-1-thread-1] DEBUG com.junction.util.CameraPush - ******   TCPCheck    BEGIN   ******

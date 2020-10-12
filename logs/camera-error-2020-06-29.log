@@ -1,0 +1,8 @@
+2020-06-29 13:02:01.120 [pool-1-thread-1] ERROR com.junction.util.CameraPush - 与推流IP：   127.0.0.1   端口：   1935 建立TCP连接失败！
+2020-06-29 13:02:05.254 [pool-1-thread-1] ERROR com.junction.util.CameraPush - 与拉流IP：   59.49.36.117    建立TCP连接失败！
+2020-06-29 13:02:46.588 [pool-1-thread-1] ERROR com.junction.util.CameraPush - 与拉流IP：   59.49.36.117    建立TCP连接失败！
+2020-06-29 13:02:53.069 [pool-1-thread-1] ERROR com.junction.util.CameraPush - 与拉流IP：   59.49.36.117    建立TCP连接失败！
+2020-06-29 13:04:43.630 [pool-1-thread-1] ERROR com.junction.util.CameraPush - 与拉流IP：   59.49.36.117    建立TCP连接失败！
+2020-06-29 13:05:04.422 [pool-1-thread-2] ERROR com.junction.util.CameraPush - 与拉流IP：   59.49.36.117    建立TCP连接失败！
+2020-06-29 13:06:25.266 [pool-1-thread-3] ERROR com.junction.util.CameraPush - 与拉流IP：   59.49.36.117    建立TCP连接失败！
+2020-06-29 14:14:52.658 [pool-1-thread-1] ERROR com.junction.util.CameraPush - 与拉流IP：   59.49.36.117    建立TCP连接失败！

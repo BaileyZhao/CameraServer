@@ -1,0 +1,80 @@
+2020-10-10 18:14:06.861 [main] INFO  com.junction.CameraServerApplication - Starting CameraServerApplication on MS-20170722ZJNZ with PID 10664 (F:\shanxilinxiao\RTSPtoRTMP\target\classes started by Administrator in F:\shanxilinxiao\RTSPtoRTMP)
+2020-10-10 18:14:06.863 [main] INFO  com.junction.CameraServerApplication - No active profile set, falling back to default profiles: default
+2020-10-10 18:14:07.460 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2020-10-10 18:14:07.466 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2020-10-10 18:14:07.466 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-10-10 18:14:07.466 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-10-10 18:14:07.517 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/camera] - Initializing Spring embedded WebApplicationContext
+2020-10-10 18:14:07.518 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 626 ms
+2020-10-10 18:14:07.607 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-10-10 18:14:07.638 [main] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page template: index
+2020-10-10 18:14:07.726 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+2020-10-10 18:14:07.749 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path '/camera'
+2020-10-10 18:14:07.751 [main] INFO  com.junction.CameraServerApplication - Started CameraServerApplication in 1.214 seconds (JVM running for 1.924)
+2020-10-10 18:15:13.617 [http-nio-8082-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/camera] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-10-10 18:15:13.618 [http-nio-8082-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-10-10 18:15:13.622 [http-nio-8082-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2020-10-10 18:28:13.958 [main] INFO  com.junction.CameraServerApplication - Starting CameraServerApplication on MS-20170722ZJNZ with PID 15260 (F:\shanxilinxiao\RTSPtoRTMP\target\classes started by Administrator in F:\shanxilinxiao\RTSPtoRTMP)
+2020-10-10 18:28:13.960 [main] INFO  com.junction.CameraServerApplication - No active profile set, falling back to default profiles: default
+2020-10-10 18:28:14.550 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2020-10-10 18:28:14.556 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2020-10-10 18:28:14.556 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-10-10 18:28:14.556 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-10-10 18:28:14.611 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/camera] - Initializing Spring embedded WebApplicationContext
+2020-10-10 18:28:14.612 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 617 ms
+2020-10-10 18:28:14.703 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-10-10 18:28:14.733 [main] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page template: index
+2020-10-10 18:28:14.799 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+2020-10-10 18:28:14.817 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path '/camera'
+2020-10-10 18:28:14.820 [main] INFO  com.junction.CameraServerApplication - Started CameraServerApplication in 1.247 seconds (JVM running for 1.883)
+2020-10-10 18:28:39.035 [http-nio-8082-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/camera] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-10-10 18:28:39.035 [http-nio-8082-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-10-10 18:28:39.040 [http-nio-8082-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2020-10-10 18:28:39.081 [http-nio-8082-exec-2] INFO  com.junction.controller.CameraController - 打开：rtsp://admin:mxlyj123+@10.2.4.10:11106/MPEG-4/ch1/null/av_stream
+2020-10-10 18:29:18.143 [main] INFO  com.junction.CameraServerApplication - Starting CameraServerApplication on MS-20170722ZJNZ with PID 15048 (F:\shanxilinxiao\RTSPtoRTMP\target\classes started by Administrator in F:\shanxilinxiao\RTSPtoRTMP)
+2020-10-10 18:29:18.145 [main] INFO  com.junction.CameraServerApplication - No active profile set, falling back to default profiles: default
+2020-10-10 18:29:18.757 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2020-10-10 18:29:18.763 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2020-10-10 18:29:18.764 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-10-10 18:29:18.764 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-10-10 18:29:18.820 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/camera] - Initializing Spring embedded WebApplicationContext
+2020-10-10 18:29:18.821 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 647 ms
+2020-10-10 18:29:18.942 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-10-10 18:29:18.978 [main] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page template: index
+2020-10-10 18:29:19.054 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+2020-10-10 18:29:19.069 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path '/camera'
+2020-10-10 18:29:19.071 [main] INFO  com.junction.CameraServerApplication - Started CameraServerApplication in 1.245 seconds (JVM running for 1.818)
+2020-10-10 18:29:20.349 [http-nio-8082-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/camera] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-10-10 18:29:20.350 [http-nio-8082-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-10-10 18:29:20.353 [http-nio-8082-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2020-10-10 18:29:20.390 [http-nio-8082-exec-1] INFO  com.junction.controller.CameraController - 打开：rtsp://admin:mxlyj123+@10.2.4.10:11106/MPEG-4/ch1/null/av_stream
+2020-10-10 18:30:20.922 [main] INFO  com.junction.CameraServerApplication - Starting CameraServerApplication on MS-20170722ZJNZ with PID 6088 (F:\shanxilinxiao\RTSPtoRTMP\target\classes started by Administrator in F:\shanxilinxiao\RTSPtoRTMP)
+2020-10-10 18:30:20.924 [main] INFO  com.junction.CameraServerApplication - No active profile set, falling back to default profiles: default
+2020-10-10 18:30:21.478 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2020-10-10 18:30:21.483 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2020-10-10 18:30:21.483 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-10-10 18:30:21.483 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-10-10 18:30:21.538 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/camera] - Initializing Spring embedded WebApplicationContext
+2020-10-10 18:30:21.538 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 585 ms
+2020-10-10 18:30:21.630 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-10-10 18:30:21.664 [main] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page template: index
+2020-10-10 18:30:21.730 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+2020-10-10 18:30:21.745 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path '/camera'
+2020-10-10 18:30:21.748 [main] INFO  com.junction.CameraServerApplication - Started CameraServerApplication in 1.149 seconds (JVM running for 1.739)
+2020-10-10 18:30:29.805 [http-nio-8082-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/camera] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-10-10 18:30:29.805 [http-nio-8082-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-10-10 18:30:29.808 [http-nio-8082-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2020-10-10 18:30:29.849 [http-nio-8082-exec-1] INFO  com.junction.controller.CameraController - 打开：rtsp://admin:mxlyj123+@10.2.4.10:11106/MPEG-4/ch1/null/av_stream
+2020-10-10 18:32:03.816 [main] INFO  com.junction.CameraServerApplication - Starting CameraServerApplication on MS-20170722ZJNZ with PID 14844 (F:\shanxilinxiao\RTSPtoRTMP\target\classes started by Administrator in F:\shanxilinxiao\RTSPtoRTMP)
+2020-10-10 18:32:03.818 [main] INFO  com.junction.CameraServerApplication - No active profile set, falling back to default profiles: default
+2020-10-10 18:32:04.363 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2020-10-10 18:32:04.369 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2020-10-10 18:32:04.369 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-10-10 18:32:04.369 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-10-10 18:32:04.426 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/camera] - Initializing Spring embedded WebApplicationContext
+2020-10-10 18:32:04.426 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 582 ms
+2020-10-10 18:32:04.538 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-10-10 18:32:04.570 [main] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page template: index
+2020-10-10 18:32:04.631 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+2020-10-10 18:32:04.646 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path '/camera'
+2020-10-10 18:32:04.649 [main] INFO  com.junction.CameraServerApplication - Started CameraServerApplication in 1.207 seconds (JVM running for 1.775)

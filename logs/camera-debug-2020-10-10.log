@@ -1,0 +1,8 @@
+2020-10-10 18:14:06.863 [main] DEBUG com.junction.CameraServerApplication - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-10-10 18:28:13.960 [main] DEBUG com.junction.CameraServerApplication - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-10-10 18:28:39.493 [pool-1-thread-1] DEBUG com.junction.util.CameraPush - ******   TCPCheck    BEGIN   ******
+2020-10-10 18:29:18.145 [main] DEBUG com.junction.CameraServerApplication - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-10-10 18:29:20.695 [pool-1-thread-1] DEBUG com.junction.util.CameraPush - ******   TCPCheck    BEGIN   ******
+2020-10-10 18:30:20.924 [main] DEBUG com.junction.CameraServerApplication - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-10-10 18:30:30.134 [pool-1-thread-1] DEBUG com.junction.util.CameraPush - ******   TCPCheck    BEGIN   ******
+2020-10-10 18:32:03.818 [main] DEBUG com.junction.CameraServerApplication - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
